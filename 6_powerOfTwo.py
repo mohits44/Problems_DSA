@@ -1,3 +1,5 @@
+# integer ka binary representation 16 8 4 2 1 power of two mai sirf ek bit one hosakta hai
+# baki sab sirf 0 honge
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         count=0
